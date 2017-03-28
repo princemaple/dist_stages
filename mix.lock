@@ -1,0 +1,4 @@
+%{"clusterable": {:hex, :clusterable, "0.1.1", "612d7850f8987c6148708d3637520be2bf4d95f39d6effc03c51537c3908c7ea", [:mix], [{:libcluster, "~> 2.0", [hex: :libcluster, optional: true]}, {:peerage, "~> 1.0", [hex: :peerage, optional: true]}]},
+  "deferred_config": {:hex, :deferred_config, "0.1.1", "ec912e9ee3c99b90a8d4bdec8fbd15309f4bd6729f30789e0ff6f595d06bbce5", [:mix], []},
+  "gen_stage": {:hex, :gen_stage, "0.11.0", "943bdfa85c75fa624e0a36a9d135baad20a523be040178f5a215444b45c66ea4", [:mix], []},
+  "peerage": {:hex, :peerage, "1.0.2", "43417cae92ca93fa3065194f5c6cb0b3df2214b2009128e470482563402cc9e5", [:mix], [{:deferred_config, "~> 0.1.1", [hex: :deferred_config, optional: false]}]}}
