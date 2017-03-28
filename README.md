@@ -1,8 +1,10 @@
-# DistStages
+# Distributed Stages
 
 This is a simple experiment with running gen_stage consumers on multiple nodes
-in a cluster and subscribe to one global producer. I don't know what use it would
-have, but it might be interesting to some people.
+in a cluster and subscribe to one global producer. I don't know how useful it is
+/ what use there could be, but it might be interesting to some people.
+
+Enjoy.
 
 ## Setup
 
